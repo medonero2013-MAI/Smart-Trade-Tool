@@ -64,3 +64,33 @@ A short demo video is available in this repository showing how the tool works.
 You can download the Excel tool directly from this repository.
 
 File:
+
+
+---
+
+## Developed By
+
+Mohamed Sherif  
+Procurement & Supply Chain Professional
+
+LinkedIn  
+https://www.linkedin.com/in/mohamed-sherif-eg
+
+Email  
+mohamed.sherif.eg@outlook.com
+
+WhatsApp  
++20 100 023 7677
+
+---
+
+## Purpose
+
+This tool was developed as an independent analytical initiative to help improve visibility of supply chain risks in the Egyptian market.
+
+---
+
+## Version
+
+Smart Trade Tool  
+Version 1.0 – 2026
